@@ -35,3 +35,9 @@ $ source env/bin/activate
 ```
 $ pip install -r requirements.txt
 ```
+
+5. Sử dụng uvicorn để chạy server. Mở browser và gõ URL localhost:8000/docs để xem kết quả
+
+```
+$ uvicorn main:app
+```
