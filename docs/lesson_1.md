@@ -13,3 +13,7 @@ FastAPI phù hợp cho một dự án cần triển khai trong thời gian ngắ
 - **Dễ dàng tiếp cận (Easy)** FastAPI dễ học, sử dụng và triển khai, giúp tiết kiệm thời gian đọc tài liệu
 - **Code ngắn gọn (Short)** FastAPI giúp giảm thiểu trùng lặp code _(code duplication)_. Nhiều tính năng đã được triển khai sẵn, giúp giảm thiểu bugs
 - **Mạnh mẽ (Robust)** Code sẵn sàng cho môi trường production và API docs _(Swagger)_ được sinh tự động.
+
+## Setup dự án
+
+**1. Tạo môi trường ảo**
